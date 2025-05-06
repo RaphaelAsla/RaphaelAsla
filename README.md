@@ -1,31 +1,16 @@
-# Hi there, I am Raphael! 👋
+### EXperience
+Grand architect of undefined C++ template metaprogramming recursion, optimizing
+compile-time existential crises into constexpr singularities. Pioneer of Vim
+keybinding reductionism, condensing the known universe into a .vimrc with fewer
+than 42 lines. Lead implementer of GPU-bound fragment chaos, specializing in
+out-of-bounds UV sampling and recursive shader compilation deadlocks.
 
-I'm a developer who enjoys diving deep into the world of code.
+### Currently Learning
+- Memory-aligned pointerless pointer architectures (because why have pointers when you can have belief)
+- GPU-driver-specific hacks that only work on odd-numbered Tuesdays
+- Tiling window manager feng shui as applied to tmux pane symmetry
+- Practical applications of undefined behavior in multi-threaded draw call orchestration
+- Writing Vulkan wrappers that wrap nothing but existential dread
+- Integrating nvim-cpp-mode with quantum entanglement-based syntax highlighting
+- Catmull-Clark subdivision of ASCII art models
 
-## 🚀 What I'm Working On
-
-- **Nexavey:** A graphics engine written in C++ using OpenGL. (Private repo, but it's my brainchild!)
-- **Learning PHP with Laravel:** Exploring the depths of web development.
-
-## 🔧 Technologies & Tools
-
-- **Languages:** <img alt="Languages" src="https://skillicons.dev/icons?i=cpp,c,python" width="150" style="vertical-align: middle;">
-- **Editors:** <img alt="Editors" src="https://skillicons.dev/icons?i=neovim,vscode" width="100" style="vertical-align: middle;">
-- **OS:** <img alt="OS" src="https://skillicons.dev/icons?i=linux,windows" width="100" style="vertical-align: middle;">
-
-## 🎓 Currently Studying
-
-- **Computer Science** at [Hellenic Open University](https://www.eap.gr/en/)
-
-## 📫 Reach Out
-
-Feel free to connect or ask me anything:
-
-- [<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="50" style="vertical-align: middle; margin-right: 2.5px;">](https://www.linkedin.com/in/raphael-aslanidis)
-  [<img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="50" style="vertical-align: middle; margin-left: 2.5px;">](mailto:raphaelasla127@gmail.com)
-
----
-
-> "The only true wisdom is in knowing you know nothing." – Socrates
-
-:wq
