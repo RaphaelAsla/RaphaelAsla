@@ -1,4 +1,4 @@
-### EXperience
+### Experience
 Grand architect of undefined `C++` template metaprogramming recursion, optimizing compile-time existential crises into `constexpr` singularities.
 Pioneer of Vim keybinding reductionism, condensing the known universe into a `.vimrc` with fewer than 10 lines.
 Lead implementer of GPU-bound fragment chaos, specializing in out-of-bounds UV sampling and recursive shader compilation deadlocks.
