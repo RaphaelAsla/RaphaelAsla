@@ -6,8 +6,6 @@ Lead implementer of GPU-bound fragment chaos, specializing in out-of-bounds UV s
 ### Currently Learning
 - Quantum-aligned `std::optional` dereferencing (Schrödinger’s value)
 - Investigating why `std::unique_ptr` feels less unique under heavy multithreading
-- Working on a `C++` quantum entanglement-based syntax highlighting plugin for vim
 - Using tmux panes to simulate higher-dimensional spaces
 - Memory-aligned pointerless pointer architectures
 - Fast inverse spaghetti transform
-
